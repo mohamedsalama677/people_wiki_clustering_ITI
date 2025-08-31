@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the final submission for the ML2 (Unsupervised Learning) course. The goal of this project is to perform clustering on textual data extracted from Wikipedia articles about various people. We utilize Natural Language Processing (NLP) techniques to preprocess the text data and apply KMeans clustering to identify groups of similar articles.
+This project is the final submission for the ML2 (Unsupervised Learning) course. The goal of this project is to perform clustering on textual data extracted from Wikipedia articles about various people. Utilize Natural Language Processing (NLP) techniques to preprocess the text data and apply KMeans clustering to identify groups of similar articles.
 
 ## Dataset
 
